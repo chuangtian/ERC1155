@@ -1,7 +1,7 @@
 pragma solidity ^0.5.9;
 
 /**
-    @title ERC-1155 Multi Token Standard
+    @title ERC-1155 Multi Token Standardaaa
     @dev See https://learnblockchain.cn/docs/eips/eip-1155.html
     Note: The ERC-165 identifier for this interface is 0xd9b67a26.
  */
